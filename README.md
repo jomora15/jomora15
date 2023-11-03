@@ -1,3 +1,3 @@
 - 👋 Hi, Yo soy Johanna, pero me conocen como jomora15
 - 👀 Me gustan mucho los videojuegos, los libros y aprender continuamente sobre programación, mi fuerte es el backend en .Net
-- 🌱 Actualmente estoy aprendiendo sobre integración SOA
+- 🌱 Actualmente estoy aprendiendo sobre frontEnd y computación en la nube
